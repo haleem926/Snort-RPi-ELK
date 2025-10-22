@@ -2,7 +2,7 @@
 A proof of concept of an affordable intrusion detection system using open source tools Snort and Elastic Stack on SoC hardware Raspberry Pi. It utilizes RPi integrated Wi-Fi as an access point to provide connectivity to wireless devices e.g. IoTs etc. To capture traffic from ethernet devices connected to router, you might have to use port mirroring which is not included in this project. In abstract, following is the conceptual design:
 
 
-![](images/Design.JPG)  
+![](082918_1504_ELKStackTut1.JPG)  
 
 
 1. Interface eth0 of RPi has subnet of 192.168.10.0/24
@@ -26,5 +26,6 @@ A proof of concept of an affordable intrusion detection system using open source
 ## Kibana Dashbord 
 
 ![](images/Kibana.JPG)
+
 
 
